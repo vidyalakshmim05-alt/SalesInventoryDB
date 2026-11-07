@@ -58,4 +58,3 @@ Run each script in SSMS using **Execute**. The sample data is fictional and inte
 Vidya Lakshmi
 
 ---
-Before publishing, execute all scripts in your own SQL Server instance and update this README if you make schema changes.
